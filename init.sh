@@ -87,4 +87,4 @@ echo -e "\n--- Running the Billing Enablement Script ---"
 python3 billing-enablement.py || handle_error "The billing enablement script failed. See the output above for details."
 
 echo -e "\n--- Full Setup Complete ---"
-exit 0```
+exit 0
